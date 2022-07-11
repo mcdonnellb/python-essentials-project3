@@ -1,8 +1,35 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+![light Mode Iphone ](assets/images/iphonexr_landingpage.jpg"light mode landing page")
+
+
+
++ [User Experience](#userexperience "User Experience")
+  + [User Stories](#user-stories "User Stories")
+  + [User Goals](#user-goals "User Goals")
+  + [Requirements](#requirements "Requirements")
+  + [Design](#design "Design")
+    + [Typography](#typography "Typography")
+    + [Personal Bio](#personalbio "Personal Bio")
+    + [Contact Page](#contactpage "Contact Page")
+    + [Common Features](#commonfeatures "Common Features")
++ [Accessibility](#accessability "Accessability")
+  + [Testing](#testing "Testing")
+    + [Functionality](#functionality "Functionality")
+    + [Styling](#styling "Styling")
+    + [Error Log](#errorlog "Error Log")
+    + [CSS Validation](#cssvalidation "CSS Validation")
+    + [HTML Validation](#htmlvalidation "HTML Validation")
+
+  + [Citations](#citations "Citations")
++ [Lessons Learned](#lessons-learned “Lessons Learned")
++ [Quirks](#quirks "Quirks")
+  + [Future Features](#future-features "Future Features")
+
+
+
+
 
 ## Reminders
 
